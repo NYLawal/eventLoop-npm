@@ -26,7 +26,7 @@ QUESTION 3 // Best practices in server-side code development
 
 
 QUESTION 4
-NPM is a JavaScript package manager. It is a website hosting more than 1 million third-party packages that can be used for our project, it is also a command line tool used for managing project dependencies. 
+NPM stands for Node Package Manager. It is the standard package manager for Node.js. It is a website hosting more than 1 million third-party packages that can be used for our project, and also a command line tool used for managing project dependencies. 
 
 
 QUESTION 5
